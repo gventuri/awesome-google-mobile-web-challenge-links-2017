@@ -2,12 +2,11 @@
 
 [<= GO BACK ](../README.md)
 
-Lista delle risorse utili individuate nel canale slack #italian dell' "Awesome Google Mobile Web Challenge 2017"
+This section contains useful tools & resources suggested by the members of #italian chatroom on slack.
 
 
 ## Resource Links
 
-
 ### CSS
-* [CSS GRID (interattivo)](http://cssgridgarden.com/)
-* [CSS FLEXBOX (interattivo)](http://flexboxfroggy.com/)
+* [CSS GRID (interactive)](http://cssgridgarden.com/)
+* [CSS FLEXBOX (interactive)](http://flexboxfroggy.com/)
