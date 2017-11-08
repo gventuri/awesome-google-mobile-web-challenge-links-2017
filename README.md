@@ -22,6 +22,12 @@ This repository is divided into subfolders full of resources for each lesson and
 * [Lesson 8: professional-developer-fu](professional-developer-fu/README.md)
 * [Further learning](furtherLearning/README.md)
 
+## Useful Tools & Resources
+
+This section contains useful tools & resources suggested by the members of #italian chatroom on slack.
+
+* [Useful Resources & Tools](UsefulResources/README.md)
+
 ## Thanks to contributors
 
 * [Alexander Luna](https://github.com/Mycroft1891)
