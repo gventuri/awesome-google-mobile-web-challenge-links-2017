@@ -14,6 +14,6 @@ This section contains useful tools & resources suggested by the members of #ital
 
 ## TOOLS
 ### Design & Prototyping
-* [Sketch - (macOS only)](https://www.sketchapp.com/)
+* [Sketch (macOS only)](https://www.sketchapp.com/)
 * [Marvel - Prototyping](https://marvelapp.com/)
 * [Figma](https://www.figma.com/)
