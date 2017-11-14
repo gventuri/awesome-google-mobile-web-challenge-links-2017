@@ -6,14 +6,13 @@ This section contains useful tools & resources suggested by the members of #ital
 
 
 ## Resource Links
-
 ### CSS
 * [CSS GRID (interactive)](http://cssgridgarden.com/)
 * [CSS FLEXBOX (interactive)](http://flexboxfroggy.com/)
 
 
-## TOOLS
 
+## TOOLS
 ### Design & Prototyping
 * [Sketch - (macOS only)](https://www.sketchapp.com/)
 * [Marvel - Prototyping](https://marvelapp.com/)
