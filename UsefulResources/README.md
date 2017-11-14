@@ -17,3 +17,4 @@ This section contains useful tools & resources suggested by the members of #ital
 * [Sketch (macOS only)](https://www.sketchapp.com/)
 * [Marvel - Prototyping](https://marvelapp.com/)
 * [Figma](https://www.figma.com/)
+* [Balsamiq](https://balsamiq.com/)
