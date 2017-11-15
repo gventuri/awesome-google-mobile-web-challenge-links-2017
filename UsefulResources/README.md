@@ -1,4 +1,4 @@
-# Risorse utili
+# Useful resources
 
 [<= GO BACK ](../README.md)
 
@@ -15,18 +15,20 @@ This section contains useful tools & resources suggested by the members of #ital
 ## TOOLS
 ### Design & Prototyping
 * [Sketch (macOS only)](https://www.sketchapp.com/)
-* [Marvel - Prototyping](https://marvelapp.com/)
+* [Marvel](https://marvelapp.com/)
 * [Figma](https://www.figma.com/)
 * [Balsamiq](https://balsamiq.com/)
 
+### Browsers & Compatibility
+* [Can I Use](https://caniuse.com/)
 
 
 ## EDITORS
 ### Visual Studio Code
-Sito web: [https://code.visualstudio.com](https://code.visualstudio.com/)  
-Repository di extension: [https://marketplace.visualstudio.com/VSCode](https://marketplace.visualstudio.com/VSCode)
+Website: [https://code.visualstudio.com](https://code.visualstudio.com/)  
+Extensions repository: [https://marketplace.visualstudio.com/VSCode](https://marketplace.visualstudio.com/VSCode)
 
-#### Extension consigliate
+#### Suggested extensions
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 * [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
 * [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
@@ -37,11 +39,11 @@ Repository di extension: [https://marketplace.visualstudio.com/VSCode](https://m
 * [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
 
 ### Atom
-Sito web: [https://atom.io](https://atom.io/)  
-Repository di extension: [https://atom.io/packages](https://atom.io/packages)
+Web: [https://atom.io](https://atom.io/)  
+Extensions repository: [https://atom.io/packages](https://atom.io/packages)
 
 ### Brackets
-Sito web: [http://brackets.io](http://brackets.io/)
+Website: [http://brackets.io](http://brackets.io/)
 
 ### SublimeText3
-Sito web: [https://www.sublimetext.com](https://www.sublimetext.com/)
+Website: [https://www.sublimetext.com](https://www.sublimetext.com/)
